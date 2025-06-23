@@ -18,15 +18,15 @@ Uma API REST completa desenvolvida em Node.js com Express e MongoDB para gerenci
 
 ## ✨ Características
 
-✅ CRUD Completo para Concessionárias, Clientes, Veículos e Ordens de Serviço
-✅ Validação Diferenciada para criação (campos obrigatórios) e atualização (campos opcionais)
-✅ Tratamento de Erros robusto com classes especializadas
-✅ Mensagens Informativas de exclusão com dados completos
-✅ Relacionamentos entre entidades via populate do Mongoose
-✅ Geração automática de números de ordem de serviço (OS000001, OS000002...)
-✅ Cálculo automático de valores totais das peças
-✅ Middlewares de segurança
-✅ Health Check endpoint para monitoramento
+- ✅ CRUD Completo para Concessionárias, Clientes, Veículos e Ordens de Serviço
+- ✅ Validação Diferenciada para criação (campos obrigatórios) e atualização (campos opcionais)
+- ✅ Tratamento de Erros robusto com classes especializadas
+- ✅ Mensagens Informativas de exclusão com dados completos
+- ✅ Relacionamentos entre entidades via populate do Mongoose
+- ✅ Geração automática de números de ordem de serviço (OS000001, OS000002...)
+- ✅ Cálculo automático de valores totais das peças
+- ✅ Middlewares de segurança
+- ✅ Health Check endpoint para monitoramento
 
 ## 🛠 Tecnologias Utilizadas
 
