@@ -35,9 +35,6 @@ Uma API REST completa desenvolvida em Node.js com Express e MongoDB para gerenci
 - **MongoDB** - Banco de dados NoSQL
 - **Mongoose** - ODM para MongoDB
 - **Joi** - Validação de esquemas (schemas separados para create/update)
-- **Helmet** - Segurança HTTP
-- **CORS** - Cross-Origin Resource Sharing
-- **Express Rate Limit** - Rate limiting
 - **dotenv** - Gerenciamento de variáveis de ambiente
 
 ## 📁 Estrutura do Projeto
